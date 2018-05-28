@@ -229,3 +229,7 @@ img.about-image {
 .bg-dark .font-alt a:hover {
     color: #fff;
 }
+
+.privacy-policy {
+    padding-top: 30px;
+}
